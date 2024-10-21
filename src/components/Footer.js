@@ -157,7 +157,7 @@ const Footer = () => {
       <WhatsAppContainer>
         <FontAwesomeIcon icon={faWhatsapp} />
         <a
-  href="https://wa.me/201004395179"
+  href="https://wa.me/phone"
   target="_blank"
   rel="noopener noreferrer"
 >
