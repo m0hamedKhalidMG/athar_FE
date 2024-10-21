@@ -78,7 +78,7 @@ const Title = styled.h2`
 `;
 
 const ImageContainer = styled.div`
-  width: 30% !important;
+  width: 50% !important;
   height: 300px !important;
   background-color: #e0e0e0 !important;
   background-image: url(${banomeImage}) !important;
